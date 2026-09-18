@@ -12,7 +12,7 @@ Quantifiable ROI & Benefits:
 
 ## Project Scope & Objectives
 Core Solution: 
-  Develop a Distributed Order Management System (DOMS) to centralize inventory visibility across all channels. The system will route online orders to the optimal fulfillment node (warehouses or nearby retail stores), support "Buy Online, Pick Up In-Store" (BOPIS) workflows, and equip store associates with mobile tools for real-time inventory auditing and return processing.
+  Develop a Distributed Order Management System (DOMS) to centralize inventory visibility across all channels. The system will route online orders to the optimal fulfillment node (warehouses or nearby retail stores), support BOPIS workflows, and equip store associates with mobile tools for real-time inventory auditing and return processing.
 
 Core Deliverables:
   Centralized Inventory Management Engine: A unified core platform that aggregates stock levels   from all 45 retail stores and e-commerce distribution centers in real time.
@@ -28,10 +28,10 @@ In-Scope Features:
   Streamlined in-store return processing for online purchases.
 
 Explicit Out-of-Scope Exclusions:
-  Full hardware replacement of existing Point-of-Sale (POS) registers across retail locations.
-  Overhauling external third-party logistics (3PL) or carrier delivery network infrastructure.
+  Full hardware replacement of existing POS registers across retail locations.
+  Overhauling external third-party logistics or carrier delivery network infrastructure.
   Redesigning Montani Style's front-end e-commerce website UI/UX beyond the BOPIS checkout option.
-  Warehouse Management System (WMS) overhaul outside of integrating inventory API endpoints.
+  Warehouse Management System overhaul outside of integrating inventory API endpoints.
 
 ## Budget & Milestone Schedule
 ### Estimated Budget
