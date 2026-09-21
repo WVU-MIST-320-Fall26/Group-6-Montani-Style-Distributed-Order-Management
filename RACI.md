@@ -5,6 +5,8 @@
 
 ## Table Order
   Task / Executive Sponsor / Project Manager / Product Owner / Business Analyst / Solution Architect
+  
+  Executive Sponsor: Katherine Kopp | Project Manager: Rivka Abelow | Product Owner: Bryce Williams | Business Analyst: Gavin Morrisard | Solution Architect: Lindsey Guhne
 
 ## Table of RACI 
   - Requirements Gathering |I|A|C|R|C|
