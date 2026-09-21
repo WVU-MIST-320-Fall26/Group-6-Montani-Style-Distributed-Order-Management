@@ -36,9 +36,13 @@
 ## Budget & Milestone Schedule
 ### Estimated Budget
 Total Estimated Project Budget: $1,150,000
-Software Development & Integration: $650,000 (DOMS core engine, POS API connectors, and e-commerce integrations)
-Mobile App Development & Hardware: $250,000 (Mobile app development and store handheld devices for 45 locations)
-Testing & Quality Assurance: $150,000 (System integration, load testing, and store-level user acceptance testing)
+
+Software Development & Integration: $650,000 (DOMS core engine and e-commerce integrations)
+
+Mobile App Development & Hardware: $250,000 (Mobile app development and handheld devices for 45 locations)
+
+Testing & Quality Assurance: $150,000 (System integration user acceptance testing)
+
 Training: $100,000 (Store associate training programs and deployment support)
 
 ### Schedule
