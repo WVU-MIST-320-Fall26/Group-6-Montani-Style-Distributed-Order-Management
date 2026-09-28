@@ -1,4 +1,4 @@
-#Project Scope Statement
+# Project Scope Statement
 
 ## Product Scope Description
 Montani Style is implementing a centralized Distributed Order Management System (DOMS) to bridge the gap between its 45 brick-and-mortar retail locations and digital e-commerce channels. Currently, disconnected legacy systems result in frequent stockouts, elevated return processing costs, high shipping fees, and an inability to fulfill online orders using local store inventory.
