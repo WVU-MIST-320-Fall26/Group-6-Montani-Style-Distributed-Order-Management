@@ -9,12 +9,16 @@
   Executive Sponsor: Katherine Kopp | Project Manager: Rivka Abelow | Product Owner: Bryce Williams | Business Analyst: Gavin Morrisard | Solution Architect: Lindsey Guhne
 
 ## Table of RACI 
-  - Requirements Gathering |I|A|C|R|C|
-  - Connect Inventory |I|A|C|C|R|
-  - Order Rules |I|A|C|C|R|
-  - Store Pickup Process |I|A|R|C|C|
-  - Inventory Checks |I|A|C|R|C|
-  - Handle Returns |I|A|R|R|C|
-  - Design Screens |I|A|R|C|C|
-  - Connect All Systems |I|A|C|C|R|
-  - Documentation |I|A|C|R|C|
+
+| Task | Executive Sponsor | Project Manager | Product Owner | Business Analyst | Solution Architect |
+|------|-------------------|-----------------|---------------|------------------|--------------------|
+| Requirements Gathering | I | A | C | R | C |
+| Connect Inventory | I | A | C | C | R |
+|Order Rules |I|A|C|C|R|
+|Store Pickup Process |I|A|R|C|C|
+|Inventory Checks |I|A|C|R|C|
+|Handle Returns |I|A|R|R|C|
+|Design Screens |I|A|R|C|C|
+|Connect All Systems |I|A|C|C|R|
+|Documentation |I|A|C|R|C|
+
