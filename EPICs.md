@@ -1,6 +1,6 @@
 # Epic Documentation
 
-## Epic 1: DOMS & Legacy Integration (`epic:core-doms`)
+## Epic 1: DOMS & Legacy Integration (`epic:doms`)
 **Purpose & Boundary:** High-level backend platform components responsible for centralizing inventory data across all 45 retail stores and e-commerce warehouses. Includes custom API development to connect legacy POS software and the e-commerce engine with real-time sync under 5 seconds.
 
 ## Epic 2: BOPIS Engine & Customer Checkout (`epic:bopis`)
