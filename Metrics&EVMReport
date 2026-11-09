@@ -1,6 +1,6 @@
-## 1. Velocity & Burn-Up Performance Analysis
+# 1. Velocity & Burn-Up Performance Analysis
 
-### 1.1 Sprint Velocity
+## 1.1 Sprint Velocity
 
 | Sprint | Dates | Issues Completed | Story Points Completed | Carryover |
 |---|---|---|---|---|
@@ -8,7 +8,7 @@
 | Sprint 2 | Oct 26 – Nov 08 | 6 | 29 | 0 |
 | **Total / Average** | | **11** | **61 / 30.5 avg** | **0** |
 
-### 1.2 Trend Analysis
+##1.2 Trend Analysis
 
 Velocity decreased from 32 points in Sprint 1 to 29 points in Sprint 2, a drop of 3 points (about 9.4%). The team's average velocity through Sprint 2 is 30.5 points per sprint. The decline is small and does not indicate a performance problem, because both sprints finished 100% of their committed scope with no carryover.
 
@@ -20,13 +20,13 @@ Three factors likely explain the difference:
 
 Because the team met its commitment in both sprints, velocity is stable and predictable. This supports the Sprint 3 commitment of 28 points, which is below the 30.5-point average and therefore achievable.
 
-### 1.3 Burn-Up Chart
+## 1.3 Burn-Up Chart
 
 
 
 Completed story points against total project scope through the end of Sprint 2
 
-**What the chart shows:**
+What the chart shows:
 
 - Completed work reached 61 of 89 total story points (68.5%) by the end of Sprint 2.
 - Planned progress at the end of Sprint 2 is 2/3 of total scope (about 59 points), so the team finished roughly 2 points ahead of plan.
