@@ -78,3 +78,59 @@ What the chart shows:
 - Sprint 3 includes UAT (#23) and pilot store onboarding (#22), which depend on stakeholder availability and store feedback that may require rework.
 - Training work (16 of the 28 points) relies on store managers scheduling sessions without overtime, which is a scope statement assumption.
 - If CPI fell to 0.95 in Sprint 3, EAC would rise to about $1.21M, so the project would exceed the $1,150,000 budget. Monitor cost closely during Sprint 3.
+
+# Executive Status Report: Montani Style Distributed Order Management (DOMS)
+
+**Reporting period:** Through Sprint 2 (ended Nov 8, 2026) | **Final deadline:** Dec 4, 2026 | **Approved budget:** $1,150,000
+
+## Overall Health: GREEN
+
+The project is slightly ahead of schedule and under budget. Two of three sprints are complete, with 100% of committed work delivered and nothing carried over. We forecast finishing about **$31K under budget** with roughly **12 days of buffer** before the deadline.
+
+## Key Metrics
+
+| Indicator | Result | What it means |
+|---|---|---|
+| **Work complete** | 69% (61 of 89 story points) | Slightly ahead of the 67% planned |
+| **Schedule (SPI)** | **1.03** | About 3% ahead of plan |
+| **Cost (CPI)** | **1.03** | About 3% more efficient than plan |
+| **Forecast total cost** | **$1,118,580** | $31,420 (2.7%) under budget |
+| **Remaining cost to finish** | $351,913 | Funded within the approved budget |
+
+## Milestone Progress
+
+| Milestone | Status |
+|---|---|
+| Real-time inventory sync across POS and e-commerce | Complete (Sprint 1) |
+| Automated order routing and Buy Online, Pick Up In-Store workflow | Complete (Sprint 2) |
+| Store associate mobile tool: picking, returns, audits | In progress (Sprint 3, ends Nov 22) |
+| Training package and pilot store onboarding | In progress (Sprint 3) |
+| User acceptance testing and executive sign-off | Scheduled (Sprint 3 and after) |
+| Final deployment | Due Dec 4, 2026 |
+
+## Major Variances
+
+- **Budget:** +$21.5K favorable to date, with +$31.4K favorable projected at completion.
+- **Schedule:** Slightly ahead of plan. The team is delivering a steady 30 points per sprint, and the final sprint is planned below that pace.
+- **Scope:** No change to the approved scope. The Curbside Geo-Arrival Tracking request was reviewed and deferred by the Change Control Board, which protected the budget and schedule.
+
+## Top Risks
+
+Six risks are tracked in the project risk register, and none is rated above medium-high. The four highest-scoring risks are below.
+
+| Risk | Business Impact | Response | Owner |
+|---|---|---|---|
+| **Legacy POS limitations.** Older point-of-sale systems may not support inventory updates in under 5 seconds. | Inventory accuracy target at risk; possible stockouts or overselling | Early testing of POS connections and custom connectors | Solution Architect |
+| **Store network reliability.** Weak Wi-Fi in some of the 45 stores could prevent handheld devices from syncing. | Associates unable to pick or audit orders in some stores | Offline mode on devices; network audit before each store rollout | Solution Architect |
+| **Associate training completion.** Staff may not finish onboarding within the 2-hour target. | Disruption to store operations; slower adoption | Short modular training; pilot at high-volume stores first | Business Analyst |
+| **Integration cost overrun.** Unexpected complexity could push software costs past the $650K allocation. | Erodes the projected $31K savings | Close spending oversight; approval required for any added features | Project Manager |
+
+*Also monitored (lower priority):* notification delays for pickup orders (medium) and handheld hardware delivery delays (low). Both have mitigations in place.
+
+## Strategic Next Steps (Decisions and Actions Needed)
+
+1. **Retail Operations:** Approve the pilot store selection and training schedule. Start with high-volume stores, which addresses the training risk.
+2. **Executive Sponsor:** Confirm user acceptance testing and sign-off dates so approvals do not become the critical path.
+3. **IT / Store Operations:** Complete the Wi-Fi audit for pilot stores before devices are deployed.
+4. **Project team:** Complete Sprint 3 (Nov 22), then report final results and launch readiness.
+5. **Leadership (optional):** Decide whether to fund a Phase 2 for curbside tracking, subject to privacy and legal review.
