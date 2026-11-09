@@ -1,0 +1,35 @@
+## 1. Velocity & Burn-Up Performance Analysis
+
+### 1.1 Sprint Velocity
+
+| Sprint | Dates | Issues Completed | Story Points Completed | Carryover |
+|---|---|---|---|---|
+| Sprint 1 | Oct 12 – Oct 25 | 5 | 32 | 0 |
+| Sprint 2 | Oct 26 – Nov 08 | 6 | 29 | 0 |
+| **Total / Average** | | **11** | **61 / 30.5 avg** | **0** |
+
+### 1.2 Trend Analysis
+
+Velocity decreased from 32 points in Sprint 1 to 29 points in Sprint 2, a drop of 3 points (about 9.4%). The team's average velocity through Sprint 2 is 30.5 points per sprint. The decline is small and does not indicate a performance problem, because both sprints finished 100% of their committed scope with no carryover.
+
+Three factors likely explain the difference:
+
+- **Change in work type:** Sprint 1 was entirely backend and integration work (`epic:doms`). Sprint 2 moved to customer-facing BOPIS features (`epic:bopis`) plus the start of the mobile app (`epic:mobile-app`), which required coordination across checkout, associate, and customer notification flows.
+- **Story size:** Sprint 2 included two 8-point items (#11 Automate Order Allocation and #15 Real-Time Inventory Audit), which concentrated effort and review time into a few large tasks.
+- **Dependencies:** The notification and hand-off items (#12, #13, #14) depended on order allocation and store pickup selection (#11, #10) being finished first.
+
+Because the team met its commitment in both sprints, velocity is stable and predictable. This supports the Sprint 3 commitment of 28 points, which is below the 30.5-point average and therefore achievable.
+
+### 1.3 Burn-Up Chart
+
+
+
+Completed story points against total project scope through the end of Sprint 2
+
+**What the chart shows:**
+
+- Completed work reached 61 of 89 total story points (68.5%) by the end of Sprint 2.
+- Planned progress at the end of Sprint 2 is 2/3 of total scope (about 59 points), so the team finished roughly 2 points ahead of plan.
+- Completed work rose in a stepwise pattern in each sprint with no carryover, and the 28 points remaining match the Sprint 3 commitment.
+- Total scope stayed flat at 89 points. The deferred curbside geo-arrival items were excluded per the CCB decision, so scope creep did not affect the burn-up.
+- At the current average velocity of 30.5 points per sprint, the remaining 28 points can be completed within Sprint 3 (Nov 09 – Nov 22), well ahead of the December 4, 2026 deadline.
